@@ -1,0 +1,47 @@
+* {
+margin: 0;
+padding: 0;
+
+}
+body {
+    background-color: black;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+img{border-radius: 12px;
+width: 321px;
+height: 321px;
+}
+h1{color: azure;
+   
+   
+margin-top: 15px;
+margin-bottom: 8%;}
+
+        p{color: brown;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ul{margin-top: 70px;}
+li{margin-bottom: 18px;
+    list-style: none;
+}
+
+a{
+    color: black;
+    background-color: red;
+    padding: 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    display: block;
+
+}
+
+footer{color: white;}
+.container{background-color: black;
+width: 320px;
+height: 320px;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+}
